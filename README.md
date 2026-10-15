@@ -27,7 +27,6 @@ Welcome to the **Vidur External API** — the fastest way to bring Vidur's legal
 | Environment | Base URL |
 | --- | --- |
 | Production | `https://api.vidur.in` |
-| Dev / Test | `https://backend-b2-test.vidur.in` |
 
 All endpoints are prefixed with `/vidur-apis/v1/`.
 
